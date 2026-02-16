@@ -1,0 +1,42 @@
+{
+    "location": "/img",
+    "status": "online",
+    "files": [
+      {
+        "name": "logobig.jpg",
+        "location": "logobig.jpg"
+      },
+      {
+        "name": "logosmall.jpg",
+        "location": "logosmall.jpg"
+      },
+      {
+        "name": "logomedium.jpg",
+        "location": "logomedium.jpg"
+      },
+      {
+        "name": "banner.jpg",
+        "location": "banner.jpg"
+      },
+      {
+        "name": "logonotext.jpg",
+        "location": "logonotext.jpg"
+      },
+      {
+        "name": "logotext.jpg",
+        "location": "logotext.jpg"
+      },
+      {
+        "name": "logofavicon.jpg",
+        "location": "logofavicon.jpg"
+      },
+      {
+        "name": "copywright2026black.jpg",
+        "location": "copywright2026black.jpg"
+      },
+      {
+        "name": "copywright2026blue.jpg",
+        "location": "copywright2026blue.jpg"
+      }
+    ]
+  }
