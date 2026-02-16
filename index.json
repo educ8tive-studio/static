@@ -1,16 +1,9 @@
 {
   "location": "/img",
   "status": "online",
-  "errors": "none",
-  "json": {
-    "location": "/json",
-    "status": "online",
-    "errors": "none"
-  },
   "img": {
     "location": "/img",
     "status": "online",
-    "errors": "none",
     "files": [
       {
         "name": "logobig.jpg",
