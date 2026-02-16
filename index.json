@@ -49,6 +49,11 @@
         "name": "copywright2026blue.jpg",
         "location": "/img/copywright2026blue.jpg"
 
+      },
+      {
+        "name": "index.json",
+        "location": "/img/",
+        "trueLocation": "/img/index.json"
       }
     ]
   }
