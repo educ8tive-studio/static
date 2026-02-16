@@ -8,39 +8,49 @@
       {
         "name": "logobig.jpg",
         "location": "/img/logobig.jpg"
+
       },
       {
         "name": "logosmall.jpg",
         "location": "/img/logosmall.jpg"
+
       },
       {
         "name": "logomedium.jpg",
         "location": "/img/logomedium.jpg"
+
       },
       {
         "name": "banner.jpg",
         "location": "/img/banner.jpg"
+
       },
       {
         "name": "logonotext.jpg",
         "location": "/img/logonotext.jpg"
+
       },
       {
         "name": "logotext.jpg",
         "location": "/img/logotext.jpg"
+
       },
       {
         "name": "logofavicon.jpg",
         "location": "/img/logofavicon.jpg"
+
       },
       {
         "name": "copywright2026black.jpg",
         "location": "/img/copywright2026black.jpg"
+
       },
       {
         "name": "copywright2026blue.jpg",
         "location": "/img/copywright2026blue.jpg"
+
       }
     ]
   }
 }
+
